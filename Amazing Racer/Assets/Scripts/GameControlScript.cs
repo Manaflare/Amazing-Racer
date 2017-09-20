@@ -55,6 +55,9 @@ public class GameControlScript : MonoBehaviour {
 		isRunning = false;
 		isFinished = true;
 		fpsController.enabled = false;
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
+
 	}
 	
 	

@@ -110,7 +110,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 7028
+  controlID: 1936
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -131,10 +131,10 @@ MonoBehaviour:
     y: 0
     width: 500
     height: 768
-  m_MinSize: {x: 202, y: 442}
-  m_MaxSize: {x: 4002, y: 8042}
+  m_MinSize: {x: 202, y: 421}
+  m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 7029
+  controlID: 1985
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 7059
+  controlID: 1937
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -391,14 +391,14 @@ MonoBehaviour:
     width: 498
     height: 373
   m_SceneLighting: 1
-  lastFramingTime: 5088.866465648185
+  lastFramingTime: 435.0944782082252
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 103.41828, y: 20.433117, z: 51.82462}
+    m_Target: {x: 24.59, y: 37.89, z: 82.8}
     speed: 2
-    m_Value: {x: 103.41828, y: 20.433117, z: 51.82462}
+    m_Value: {x: 24.59, y: 37.89, z: 82.8}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -421,13 +421,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.123056605, y: 0.80490565, z: -0.17940915, w: -0.5520836}
+    m_Target: {x: -0.12359414, y: 0.748716, z: -0.14578684, w: -0.6347403}
     speed: 2
-    m_Value: {x: -0.123056605, y: 0.80490565, z: -0.17940915, w: -0.5520836}
+    m_Value: {x: -0.12359413, y: 0.74871594, z: -0.14578682, w: -0.63474023}
   m_Size:
-    m_Target: 59.111084
+    m_Target: 7.5164814
     speed: 2
-    m_Value: 59.111084
+    m_Value: 7.5164814
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -492,9 +492,9 @@ MonoBehaviour:
     height: 470
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7250f8ff
-    m_LastClickedID: -503694
-    m_ExpandedIDs: 5e44f7ff76fbffff00000000
+    m_SelectedIDs: ae260000
+    m_LastClickedID: 0
+    m_ExpandedIDs: 04fcffff1afcffff00000000282b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -555,19 +555,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Standard Assets/Environment/Water/Water4/Materials
+    - Assets/Materials
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Standard Assets/Environment/Water/Water4/Materials
+  - Assets/Materials
   m_LastFoldersGridSize: 16
   m_LastProjectPath: Z:\2nd Semester\Unity Project\Amazing Racer\Amazing Racer
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 289}
-    m_SelectedIDs: 062b0000
-    m_LastClickedID: 11014
-    m_ExpandedIDs: 0e260000702a0000902a0000de2a0000e22a0000e62a0000262b0000b0390000043a000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 7a260000
+    m_LastClickedID: 9850
+    m_ExpandedIDs: 0000000076260000a0260000ea270000462800005e280000322a0000702a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -595,7 +595,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0e260000702a0000902a0000de2a0000e22a0000e62a0000262b0000b0390000043a000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000076260000a0260000ea270000462800005e280000322a0000702a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -649,7 +649,7 @@ MonoBehaviour:
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
-  m_DirectoriesAreaWidth: 110
+  m_DirectoriesAreaWidth: 228
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
